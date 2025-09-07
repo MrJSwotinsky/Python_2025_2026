@@ -52,7 +52,7 @@ Due: Thursday, September 11th 2025
 
 ### Share your work:
 
-1. [Create a folder](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Create_GitHub_Folder_Guide.md) in your Python Portfolio repo titled, `LastNameFirstInitial_Assignments`.
+1. [Create a folder](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Create_GitHub_Folder_Guide.md) in your Python Portfolio repo titled, `LastNameFirstInitial_Assignments`.
 
 2. Upload your `LastNameFirstInitial_birthDAY.png`, `LastNameFirstInitial_Initials.png`, `LastNameFirstInitial_Favorite_Color.png`, and `LastNameFirstInitial_Color_Picker.png` files to your Assignments folder.
 
