@@ -21,7 +21,7 @@ Monday, September 8th 2025
 
 **ANCHOR SKILL(S) AND POWER STANDARD(S):** 
 
- - [ ] <ins>TYS61XT.8</ins>: Model employability skills such as personal mindset, planning for success, and collaboration.
+ - [ ] <ins>TYS63T.8</ins>: Model employability skills such as personal mindset, planning for success, and collaboration.
 
 **SUCCESS CRITERIA:**
 - [ ] I have established at least one SMART goal for myself, and identified actions to help me meet my SMART goal.
