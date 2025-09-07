@@ -2,10 +2,10 @@
 Due: Friday, September 12th 2025
 
 1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 1, 1.1.1.1  - 1.1.1.3** 
-2. [Create a file](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Create_GitHub_File_Guide.md) in your Assignments folder titled, `LastNameFirstInitial_Programming_Languages.md`.
+2. [Create a file](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Create_GitHub_File_Guide.md) in your Assignments folder titled, `LastNameFirstInitial_Languages.md`.
 2. Copy/paste the code at the bottom of this assignment.
 3. Respond to all prompts.
-4. Commit your progress.  Remember to write an appropriate commit message.  For example, *"Completed programming languages review."*
+4. Commit your progress.  Remember to write an appropriate commit message.  For example, *"Completed languages review."*
 
 ```markdown
 # Programming Languages Review Prompts
