@@ -40,4 +40,4 @@ Monday, September 8th 2025
 
 **HOMEWORK:** 
 
-[Python Unit 0, Assignment 1 - Configure GitHub](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_00_Intro_to_Python/Assignments/Assignment_01_Configure_Github.md)
+[Python - Unit 0, Assignment 1 - Configure GitHub](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_00_Intro_to_Python/Assignments/Assignment_01_Configure_Github.md)
