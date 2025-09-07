@@ -58,7 +58,7 @@ Due: Thursday, September 11th 2025
 
 3. Commit your progress.  Remember to write an appropriate commit message.  For example, *"Uploaded machine language images."*
 
-4. [Create a file](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Create_GitHub_Folder_Guide.md) in your Assignments folder titled, `LastNameFirstInitial_Machine_Language.md`.
+4. [Create a file](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Create_GitHub_File_Guide.md) in your Assignments folder titled, `LastNameFirstInitial_Machine_Language.md`.
 
 5. Copy/paste the code at the bottom of this assignment.
 
