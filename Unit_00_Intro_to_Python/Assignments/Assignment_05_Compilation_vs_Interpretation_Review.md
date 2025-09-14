@@ -8,7 +8,7 @@ Due: Monday, September 15th 2025
 4. Commit your progress.  Remember to write an appropriate commit message.  For example, *"Completed compilation vs. interpretation review."*
 
 ```markdown
-# Programming Languages Review Prompts
+# Compilation vs Interpretation Review Prompts
 
 ## 1) What is the purpose of compiling and/or interpreting programs?
 
