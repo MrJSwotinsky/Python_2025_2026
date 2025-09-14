@@ -27,4 +27,6 @@ Due: Wednesday, September 17th 2025
 ## 8) Describe some applications in which Python is currently used.
 
 ## 9) Describe some applications in which Python is not yet used.
+
+## 10) Name two of Python's rival programming languages.
 ```
