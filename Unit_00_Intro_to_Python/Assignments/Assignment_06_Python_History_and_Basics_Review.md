@@ -8,7 +8,7 @@ Due: Wednesday, September 17th 2025
 4. Commit your progress.  Remember to write an appropriate commit message.  For example, *"Completed python history and basics review."*
 
 ```markdown
-# Python History and Basics
+# Python History and Basics Prompts
 
 ## 1) Provide a brief history of Python (Who created it? Where were they from? What Year did they create it? And, what how did Python get its name?)
 
