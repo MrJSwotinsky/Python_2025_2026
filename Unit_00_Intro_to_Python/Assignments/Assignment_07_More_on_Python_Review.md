@@ -1,16 +1,16 @@
 ## Python - Unit 0, Assignment 7 - More on Python  
 Due: Thursday, September 18th 2025
 
-1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 1, 1.1.2.1  - 1.1.2.4** 
-2. Create a file in your Assignments folder titled, `LastNameFirstInitial_Python_History_and_Basics.md`.
+1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 1, 1.1.3.1  - 1.1.3.1** 
+2. Create a file in your Assignments folder titled, `LastNameFirstInitial_More_on_Python.md`.
 2. Copy/paste the code at the bottom of this assignment.
 3. Respond to all prompts.
-4. Commit your progress.  Remember to write an appropriate commit message.  For example, *"Completed python history and basics review."*
+4. Commit your progress.  Remember to write an appropriate commit message.  For example, *"Completed more on python review."*
 
 ```markdown
-# Programming Languages Review Prompts
+# More on Python Prompts
 
-## 1) Provide a brief history of Python (Who created it? Where were they from? What Year did they create it? And, what how did Python get its name?)
+## 1) What extension do all Python files have?
 
 ## 2) What does it mean to say "Python was a hobby programming project"?
 
