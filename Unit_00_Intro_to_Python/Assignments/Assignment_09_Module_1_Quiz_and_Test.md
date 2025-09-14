@@ -3,4 +3,4 @@ Due: Thursday, September 22nd 2025
 
 Navigate to https://www.edube.org, sign in, access Python Essentials 1, and complete:
 * **PE1 -- Module 1 Quiz**  
-* **PE1 -- Module 1 Exam** 
+* **PE1 -- Module 1 Test** 
