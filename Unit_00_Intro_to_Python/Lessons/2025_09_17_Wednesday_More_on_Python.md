@@ -21,6 +21,7 @@ Wednesday, September 17th 2025
 - [ ] I can identify the different versions of Python, explain the rationale behind what type of updates each recieves, and describe potential compatability issues.
 - [ ] I can explain what it an "implementation of Python" is, and identify examples of various implementations of Python.
 - [ ] I know what extension is required for all Python files.
+- [ ] I can identify alternatives to Python.
 
 **AGENDA:**
 
