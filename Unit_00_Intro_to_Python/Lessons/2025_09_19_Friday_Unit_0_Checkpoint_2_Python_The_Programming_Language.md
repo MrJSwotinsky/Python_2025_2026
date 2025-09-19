@@ -1,5 +1,5 @@
 # Python
-Thursday, September 18th 2025
+Friday, September 19th 2025
 
 ### Unit 0, Checkpoint 2 - Python, The Programming Language
 
