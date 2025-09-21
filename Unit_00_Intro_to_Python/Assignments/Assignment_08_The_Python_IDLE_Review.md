@@ -1,5 +1,5 @@
 ## Python - Unit 0, Assignment 8 - The Python IDLE 
-Due: Tuesday, September 23rd 2025
+Due: Thursday, September 25th 2025
 
 1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 1, 1.2.1.1  - 1.2.1.9** 
 2. Create a file in your Assignments folder titled, `LastNameFirstInitial_The_Python_IDLE.md`.
