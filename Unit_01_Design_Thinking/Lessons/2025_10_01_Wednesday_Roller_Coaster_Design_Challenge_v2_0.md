@@ -17,7 +17,7 @@ Wednesday, October 1st 2025
 
 **ANCHOR SKILL(S) AND POWER STANDARD(S):** 
 
- - [ ] <ins>TYS61XT.6</ins>: Engage in the design thinking process to iteratively develop work.
+ - [ ] <ins>TYS63T.2</ins>: Engage in the design thinking process to iteratively develop work.
 
 **SUCCESS CRITERIA:**
 - [ ] I have actively collaborated with my team in an effort to build a fun and safe paper roller coaster with a long ride time.
