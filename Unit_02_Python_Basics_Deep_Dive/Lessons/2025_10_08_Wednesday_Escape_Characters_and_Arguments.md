@@ -33,26 +33,27 @@ Wednesday, October 8th 2025
  - [ ] <ins>TYS63T.4</ins>: Code using appropriate logic and syntax.
 
 **SUCCESS CRITERIA:**
-- [ ] I can describe what functions are, what they can accomplish, and the syntax required to call functions.
-- [ ] I can describe what specifically the `print()` function does, and the syntax required to call the `print()` function.
-- [ ] I can describe what strings are and how strings are denoted.
-- [ ] I can apply the `print()` function to display information to the user.
+- [ ] I can describe what escape characters are, and how they are used.
+- [ ] I can leverage escape characters to include tabs, newlines, backlashes, quotes, etc. in strings.
+- [ ] I can describe what the `sep` and `end` parameters are and how they are used.
+- [ ] I can leverage the `sep` and `end` characters to customize the way output is displayed.
 
 **AGENDA:**
 
-1. Exploring `print()`
-2. The `print()` Function.
-     * Single-Line Display
-     * Multi-Line Display
-     * Vertical Whitespace
-3. Strings
-4. Python Functions in General
-     * Result vs. Effect
-     * Name and Argument(s)
-     * Syntax
-     * Built-in Functions vs. User-defined Functions
-5. Check for Understanding
+1. Exploring `/`, `sep`, and `end`
+2. A Quick Note About Built-In vs. User-Defined Functions     
+3. Escape Characters
+     * `/t`
+     * `/n`
+     * `/'`
+     * `/"`
+     * `//`
+4. Displaying Quotes (An Alternative to Escape Characters)
+5. Additional `print()` parameters
+     * `sep`
+     * `end`
+6. Check for Understanding
 
 **HOMEWORK:** 
 
-[Python - Unit 2, Assignment 2 - Calculator Task Define Stage, Print Function Review, and Song Lab](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_02_Python_Basics_Deep_Dive/Assignments/Assignment_02_Calculator_Task_Define_Stage_Print_Function_Review_and_Song_Lab.md)
+[Python - Unit 2, Assignment 3 - Calculator Task Ideate Stage, Escape Characters and Arguments Review, and ASCII Art Lab](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_02_Python_Basics_Deep_Dive/Assignments/Assignment_03_Calculator_Task_Ideate_Stage_Escape_Characters_and_Arguments_Review_and_ASCII_Art_Lab.md)
