@@ -40,7 +40,7 @@ Due: Wednesday, October 8th 2025
 
 ## 2) What are the two different pairs of symbols used in Python to denote strings?
 
-## 3) In general, describe the two things Python functions can do.
+## 3) In general, describe the two types of tasks functions can accomplish.
 
 ## 4) Explain in detail the syntax used to call functions.
 
