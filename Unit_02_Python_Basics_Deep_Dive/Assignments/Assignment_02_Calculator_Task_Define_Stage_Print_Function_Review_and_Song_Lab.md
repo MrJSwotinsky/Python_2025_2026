@@ -41,3 +41,37 @@ Due: Wednesday, October 8th 2025
 ```
 
 ### Song Lab
+
+1. Create a new folder in your Python Portfolio repo titled `LastNameFirstInitial_Labs`
+2. Use the Python IDLE to complete the lab below.  Save your file as `LastNameFirstInitial_Song_Lab.py`
+   
+Write a program that displays the title, artist, and lyrics of your favorite **school-appropriate** song.
+   * On the first line of your program, display the title.
+   * On the second line of your program, display the artist.
+   * Display each line of your song on a separate line.
+   * Separate verses from each other with one line of vertical whitespace.
+
+**Sample Output/**
+```
+Old McDonald Had a Farm
+by Old McDonald
+
+Old McDonald had a farm. E-I-E-I-O.
+And on his farm he had a horse. E-I-E-I-O.
+With a neigh neigh here and a neigh neigh there.
+Here a neigh there a neigh everywhere a neigh neigh.
+Old McDonald had a farm. E-I-E-I-O.
+
+Old McDonald had a farm. E-I-E-I-O.
+And on his farm he had a cow. E-I-E-I-O.
+With a moo moo here and a moo moo there.
+Here a moo there a moo everywhere a moo moo.
+Old McDonald had a farm. E-I-E-I-O.
+
+Old McDonald had a farm. E-I-E-I-O.
+And on his farm he had a chicken. E-I-E-I-O.
+With a cluck cluck here and a cluck cluck there.
+Here a cluck there a cluck everywhere a cluck cluck.
+Old McDonald had a farm. E-I-E-I-O.
+```
+3. Upload your song lab to your Labs folder
