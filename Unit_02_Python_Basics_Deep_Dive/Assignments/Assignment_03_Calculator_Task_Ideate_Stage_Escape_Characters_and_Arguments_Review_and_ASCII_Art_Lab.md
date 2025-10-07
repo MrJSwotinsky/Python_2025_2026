@@ -27,7 +27,7 @@ Due: Wednesday, October 8th 2025
 
 1. Use the Python IDLE to complete the lab below.  Save your file as `LastNameFirstInitial_ASCII_Art_Lab.py`
    
-Write a program that leverages escape characters, as well as the `sep` and `end` arguments to display the following:
+Write a program that leverages escape characters, as well as the `sep` and `end` parameters to display the following:
 
 * Display the image below using **3 lines** of code:
 ```
