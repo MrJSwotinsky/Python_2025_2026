@@ -25,7 +25,6 @@ Due: Wednesday, October 8th 2025
 
 **As you work forward on this task, keep in mind you may need to go back to revisit the define stage.**
 
-
 ### Print Function Review
 
 1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 2, 2.1.1.1  - 2.1.1.9** 
@@ -37,7 +36,25 @@ Due: Wednesday, October 8th 2025
 ```markdown
 # Print Function Review Prompts
 
-## 1)
+## 1) What is a string?
+
+## 2) What are the two different pairs of symbols used in Python to denote strings?
+
+## 3) In general, describe the two things Python functions can do.
+
+## 4) Explain in detail the syntax used to call functions.
+
+## 5) Explain the difference between a built-in function and a user-defined function.  In your explanation, include an example of a Python built-in function.
+
+## 6) What specifically does the `print()` function do?
+
+## 7) Describe one way to display two different lines of code?
+
+## 8) Describe one way to display vertical whitespace?
+
+## 9) Identify and explain how to correct all errors in the function call, `Print[Hello, World!]`.
+
+## 10) In addition to strings, what else can the `print()` function display?
 ```
 
 ### Song Lab
