@@ -27,25 +27,25 @@ Tuesday, October 7th 2025
  - [ ] <ins>TYS63T.4</ins>: Code using appropriate logic and syntax.
 
 **SUCCESS CRITERIA:**
-- [ ] I can describe basic computer programming concepts.
-- [ ] I can identify, describe, and provide examples of several different types of languages.
-- [ ] I can explain how different types of languages relate to each other.
-- [ ] I can describe the four fundamental elements of language.
+- [ ] I can describe what functions are, what they can accomplish, and the syntax required to call functions.
+- [ ] I can describe what specifically the `print()` function does, and the syntax required to call the `print()` function.
+- [ ] I can describe what strings are and how strings are denoted.
+- [ ] I can apply the `print()` function to display information to the user.
 
 **AGENDA:**
 
-1. Languages and the Purpose of Language
-2. Basic Computer Programming Concepts:
-     * Simple Operations and Complex Tasks (Calculating Speed)
-     * Instruction Lists 
-     * Computer Programs
-3. Natural / Spoken Languages
-4. High Level Computer Programming Languages
-5. Low Level Computer Programming Languages
-6. Assembly Language
-7. Machine Language
-8. Languages as a Spectrum
-9. The Four Fundamental Elements of Language
+1. Exploring `print()`
+2. The `print()` Function.
+     * Single-Line Display
+     * Multi-Line Display
+     * Vertical Whitespace
+3. Strings
+4. Python Functions in General
+     * Result vs. Effect
+     * Name and Argument(s)
+     * Syntax
+     * Built-in Functions vs. User-defined Functions
+5. Check for Understanding
 
 **HOMEWORK:** 
 
