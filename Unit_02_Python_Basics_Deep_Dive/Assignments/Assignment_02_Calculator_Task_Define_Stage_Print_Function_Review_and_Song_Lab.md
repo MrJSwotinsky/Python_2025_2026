@@ -1,4 +1,4 @@
-## Unit 1, Assignment 2 - Calculator Task Define Stage, Print Function Review, and Song Lab
+## Unit 2, Assignment 2 - Calculator Task Define Stage, Print Function Review, and Song Lab
 Due: Wednesday, October 8th 2025
 
 ### Calculator Task Define Stage
