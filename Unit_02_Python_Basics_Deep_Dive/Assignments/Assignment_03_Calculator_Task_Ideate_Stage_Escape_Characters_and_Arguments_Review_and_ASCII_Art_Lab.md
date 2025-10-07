@@ -11,7 +11,7 @@ Due: Wednesday, October 8th 2025
 
 ### Escape Characters and Arguments Review
 
-1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 2, 2.1.1.1  - 2.1.1.9** 
+1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 2, 2.1.1.10  - 2.1.1.20** 
 2. Create a file in your Assignments folder titled, `LastNameFirstInitial_Escape_Characters_and_Arguments_Review.md`.
 3. Copy/paste the code at the bottom of this assignment.
 4. Respond to all prompts.
