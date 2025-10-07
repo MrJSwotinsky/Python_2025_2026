@@ -2,7 +2,7 @@
 Due: Wednesday, October 8th 2025
 
 ### Calculator Task Define Stage
-1. Complete the **Define** column of your [design planner](hhttps://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Design%20Planner.pdf) to capture your engagement in the Define stage of the [design thinking](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process.<br>
+1. Complete the **Define** column of your [design planner](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Design%20Planner.pdf) to capture your engagement in the Define stage of the [design thinking](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process.<br>
    <table>
       <tr>
          <td>
