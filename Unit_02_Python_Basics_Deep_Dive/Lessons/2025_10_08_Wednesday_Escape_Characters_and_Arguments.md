@@ -8,10 +8,10 @@ Wednesday, October 8th 2025
     <td><b>DO NOW:</b><br><br>
     1. Open the Python IDLE<br>
     2. Copy/paste and run the following code.<br>
-    <pre><code>print('Hello/tWorld!')</code></pre>
+    <pre><code>print('Hello\tWorld!')</code></pre>
     3. What do you notice?<br><br>
     4. Replace your code with the following code.<br>
-    <pre><code>print('Hello/nWorld!')</code></pre>
+    <pre><code>print('Hello\nWorld!')</code></pre>
     5. What do you notice?<br><br>
     6. Try to print `'Hello, World!'` including the quotation marks by replacing your code with the following code.<br>
     <pre><code>print(''Hello, World!'')</code></pre>
@@ -20,7 +20,7 @@ Wednesday, October 8th 2025
     <pre><code>print("'Hello, World!'")</code></pre>
     9. What do you notice?<br><br>
     10. Finally, try to print `'Hello, World!'` including the quotation marks one more time, this time by replacing your code with the following code.<br>
-    <pre><code>print(/'Hello, World!/')</code></pre>
+    <pre><code>print('\'Hello, World!\')</code></pre>
     11. What do you notice?<br><br>
     <b>Be prepared to share your responses</b></td>
   </tr>
