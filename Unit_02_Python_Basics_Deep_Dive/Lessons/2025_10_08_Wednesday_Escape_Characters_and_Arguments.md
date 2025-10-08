@@ -43,11 +43,11 @@ Wednesday, October 8th 2025
 1. Exploring `/`, `sep`, and `end`
 2. A Quick Note About Built-In vs. User-Defined Functions     
 3. Escape Characters
-     * `/t`
-     * `/n`
-     * `/'`
-     * `/"`
-     * `//`
+     * `\t`
+     * `\n`
+     * `\'`
+     * `\"`
+     * `\\`
 4. Displaying Quotes (An Alternative to Escape Characters)
 5. Additional `print()` parameters
      * `sep`
