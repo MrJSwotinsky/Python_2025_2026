@@ -1,5 +1,5 @@
 ## Unit 2, Assignment 3 - Calculator Task Ideate Stage, Escape Characters and Arguments Review, and ASCII Art Lab
-Due: Wednesday, October 8th 2025
+Due: Thursday, October 9th 2025
 
 ### Calculator Task Define Stage
 1. Complete the **Ideate** column of your [design planner](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Design%20Planner.pdf) to capture your engagement in the Define stage of the [design thinking](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process.<br>
