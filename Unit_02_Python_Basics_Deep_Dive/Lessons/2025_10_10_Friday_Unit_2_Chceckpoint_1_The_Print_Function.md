@@ -23,4 +23,4 @@ Friday, October 10th 2025
 
 **HOMEWORK:** 
 
-No homework tonight.  Have a great evening!
+[Python - Unit 2, Assignment 5 - Calculator Task First Prototype](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_02_Python_Basics_Deep_Dive/Assignments/Assignment_05_Calculator_Task_First_Prototype.md)
