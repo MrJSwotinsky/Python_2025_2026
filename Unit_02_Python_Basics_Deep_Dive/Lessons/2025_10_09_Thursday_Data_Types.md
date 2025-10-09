@@ -46,7 +46,7 @@ Thursday, October 9th 2025
     * False Statements
     * Numerical Equivalents
     * Is 1 "the same" as 1.0?      
-6. Binary, Octal, and Hexadecimal
+6. Binary, Octal, and Hexadecimal (DigiKey [Number System Conversion Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-number-conversion))
 7. The `type()` Function
 8. Type Casting
 9. Check for Understanding
