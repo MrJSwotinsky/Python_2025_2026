@@ -30,4 +30,4 @@ Wednesday, October 15th 2025
 
 **HOMEWORK:** 
 
-[Python - Unit 2, Assignment 6 - Binding and the Hierarchy of Operations](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_02_Python_Basics_Deep_Dive/Assignments/Assignment_06_Binding_and_the_Heirarchy_of_Operations.md)
+[Python - Unit 2, Assignment 7 - Binding and the Hierarchy of Operations](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_02_Python_Basics_Deep_Dive/Assignments/Assignment_07_Binding_and_the_Heirarchy_of_Operations.md)
