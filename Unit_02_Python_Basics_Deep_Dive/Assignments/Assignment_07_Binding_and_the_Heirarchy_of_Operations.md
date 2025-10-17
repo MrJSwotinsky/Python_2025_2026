@@ -1,4 +1,4 @@
-## Unit 2, Assignment 6 - Binding and the Hierarchy of Operations
+## Unit 2, Assignment 7 - Binding and the Hierarchy of Operations
 Due: Thursday, October 16th 2025
 
 ### Bindinding and the Hierarchy of Operations
