@@ -1,7 +1,7 @@
 # Python
 Wednesday, October 15th 2025
 
-### Operators
+### Binding and the Hierarchy of Operations
 
 <table>
   <tr>
