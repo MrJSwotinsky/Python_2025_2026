@@ -1,4 +1,4 @@
-## Unit 2, Assignment 5 - Operators
+## Unit 2, Assignment 6 - Operators
 Due: Wednesday, October 15th 2025
 
 ### Operators Review
