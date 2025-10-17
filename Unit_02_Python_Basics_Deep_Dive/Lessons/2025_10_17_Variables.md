@@ -16,17 +16,23 @@ Friday, October 17th 2025
 
 **ANCHOR SKILL(S) AND POWER STANDARD(S):** 
 
- - [ ] <ins>TYS63T.3</ins>: Apply computational thinking to a variety of tasks.
+- [ ] <ins>TYS63T.1</ins>: Describe the characteristics of Python as a programming language.
+- [ ] <ins>TYS63T.3</ins>: Apply computational thinking to a variety of tasks.
+- [ ] <ins>TYS63T.4</ins>: Code using appropriate logic and syntax.
 
 **SUCCESS CRITERIA:**
-- [ ] I can determine the output of an expression containing numerical data types and the operations `+`, `-`, `*`, `/`, `//`, `**`, and `%`.
+- [ ] I can desribe what variables are and how they are used to store data.
+- [ ] I can describe the requirements for a variable name to be legal in Python, and classify variable names as legal or not legal.
+- [ ] I can apply code tracing strategies to analyze code snippets that involve variables and assignment.
 
 **AGENDA:**
 
-1. Recalling the Order of Operations
-2. Python's Hierarchy of Operations
-3. Binding
-4. Check for Understanding
+1. Recalling Variables from Math
+2. The Box Model of Python Variables
+3. Variable Name Requirements
+4. What Would PEP - 8 Say?
+5. Applying Code Tracing Strategies to Analyze Code Snippets
+6. Check for Understanding
 
 **HOMEWORK:** 
 
