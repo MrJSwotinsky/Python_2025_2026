@@ -50,4 +50,4 @@ Tuesday, October 14th 2025
 
 **HOMEWORK:** 
 
-[Python - Unit 2, Assignment 5 - Operators](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_02_Python_Basics_Deep_Dive/Assignments/Assignment_05_Operators.md)
+[Python - Unit 2, Assignment 6 - Operators](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_02_Python_Basics_Deep_Dive/Assignments/Assignment_06_Operators.md)
