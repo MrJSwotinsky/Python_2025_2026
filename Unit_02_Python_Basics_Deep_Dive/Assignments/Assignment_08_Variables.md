@@ -1,5 +1,5 @@
 ## Unit 2, Assignment 8 - Variables
-Due: Tuesday, October 21st 2025
+Due: Wednesday, October 22nd 2025
 
 ### Variables Review
 
