@@ -43,7 +43,7 @@ Due: Friday, October 10th 2025
 
 ## 15) What does 3.2E15 mean?  Describe the magnitude of this number.
 
-## 16) What does 3.2E-15 mean? Describe the magniture of this number.
+## 16) What does 3.2E-15 mean? Describe the magnitude of this number.
 
 ## 17) What function returns the data type of a literal?  Provide an example of how to call this function and display the result.
 
