@@ -1,8 +1,14 @@
-## Unit 2, Assignment 9 - Shortcut Operators and Comments Review and Calculator Task Subgoal Labels
+## Unit 2, Assignment 9 - Shortcut Operators and Comments Labs and Calculator Task Subgoal Labels
 Due: Friday, October 24th 2025
 
-### Shortcut Operators and Comments Review
+### Shortcut Operators and Comments Labs
+1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 2, 2.4.1.7  - 2.5.1.3**
+2. Complete lab 2.4.1.7 and upload it to your assignments folder / filename: `LastNameFirstInitial_Lab_2_4_1_7_Variables.py`
+3. Complete lab 2.4.1.9 and upload it to your assignments folder / filename: `LastNameFirstInitial_Lab_2_4_1_9_Variables:_A_Simple_Converter.py`
+4. Complete lab 2.4.1.10 and upload it to your assignments folder / filename: `LastNameFirstInitial_Lab_2_4_1_10_Operators_and_Expressions.py`
+5. Complete lab 2.5.1.2 and upload it to your assignments folder / filename: `LastNameFirstInitial_Lab_2_5_1_2_Comments.py`      
 
+*For each lab, remember to write an appropriate commit message.*
 
 ### Calculator Task Subgoal Labels:
 1. Update your code by adding subgoal labels in the form of comments to outline your plan for this task.
