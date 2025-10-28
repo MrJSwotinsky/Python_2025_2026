@@ -1,7 +1,7 @@
 # Python
 Wednesday, October 29th 2025
 
-### Unit 2, Checkpoint 4 - Variables and Input
+### Unit 2, Checkpoint 4 - Variables, Comments, and Input
 
 <table>
   <tr>
