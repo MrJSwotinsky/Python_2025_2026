@@ -29,7 +29,7 @@ Friday, September 26th 2025
 1. PCEP Exam Structure
 2. Exam Strategies
 3. Python Essentials 1 Module 1 Quiz
-4. Python Essentials 1 Module 2 Quiz
+4. Python Essentials 1 Module 1 Test
 5. Individual / Small Group Reflection
 6. Full Class Reflection
 
