@@ -1,7 +1,7 @@
-## Unit 2, Assignment 10 - Input and Calculator Task Input/Output
+## Unit 2, Assignment 10 - Input Labs and Calculator Task Input/Output
 Due: Monday, October 27th 2025
 
-### Input
+### Input Labs
 1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 2, 2.6.1.1  - 2.6.1.13**
 2. Complete lab 2.6.1.9 and upload it to your assignments folder / filename: `LastNameFirstInitial_Lab_2_6_1_9_Simple_Input_and_Output.py`
 3. Complete lab 2.6.1.9 and upload it to your assignments folder / filename: `LastNameFirstInitial_Lab_2_6_1_10_Operators_and_Expressions_Pt1.py`
