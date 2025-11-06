@@ -1,4 +1,4 @@
-## Unit 2, Assignment 14 - Calculator Task Progress and Conditional Exercises
+`## Unit 2, Assignment 14 - Calculator Task Progress and Conditional Exercises
 Due: Friday, November 7th 2025
 
 ### Calculator Task Progress
@@ -35,7 +35,9 @@ In your notes, complete the following exercises.  Wherever  code trace each of t
 4.  Arrange the code boxes below in the correct positions to form a conditional instruction which gaurantees that a certain statement is executed when the `age` variable is greater than or equal to `16`.<br><br>
 `<` `if`  `age`  `:`  `15`   `=`
 
-5. What is the expected output of the following code.  If running the code will result in an error, explain why.  **Show all work and code tracing**
+5. What is the expected output of the following code.<br>
+   If running the code will result in an error, explain why.<br>
+   **Show all work and code tracing**
 
 ```python
 result = 1 + 5 // 2 * 2
@@ -45,6 +47,84 @@ elif result >= 5:
   print('$$')
 else:
   print('$$$')
+```
+
+6. What is the expected output of the following code.<br>
+   If running the code will result in an error, explain why.<br>
+   **Show all work and code tracing**
+
+```python
+val = 5 % 3 + 1 / 2
+if val == 2:
+  print('@')
+elif val < 2:
+  print('@@')
+else:
+  print('@@@')
+```
+
+7. What is the expected output of the following code.<br>
+   If running the code will result in an error, explain why.<br>
+   **Show all work and code tracing**
+
+```python
+num = 3 ** 1 ** 2
+if num < 3:
+  print('#')
+elif num =! 9:
+  print('##')
+else:
+  print('###')
+```
+
+8. What is the expected output of the following code.<br>
+   If running the code will result in an error, explain why.<br>
+   **Show all work and code tracing**
+
+```python
+answer = 4 - 1 // 2 * 3
+if answer != 5:
+  print('*')
+elif answer == 4:
+  print('**')
+else:
+  print('***')
+```
+
+9. Fill in the blanks with the code expressions below to obtain a code which outputs `!!` to the screen.<br>
+   *Note: Some code boxes will not be used.*<br>
+   **Show all work and code tracing**<br>
+`alpha > 0`<br>
+`alpha = 1`<br>
+`alpha != 1`<br>
+`alpha =< 1`<br>
+
+```python
+alpha = 5 - 2 * 2
+if _____:
+  print('!')
+elif _____:
+  print('!!')
+else:
+  print('!!!')
+```
+
+10. Fill in the blanks with the code expressions below to obtain a code which outputs `&&&` to the screen.<br>
+   *Note: Some code boxes will not be used.*<br>
+   **Show all work and code tracing**<br>
+`count != 0`<br>
+`count >= 1`<br>
+`count == 0`<br>
+`count =< 1`<br>
+
+```python
+count = 8 % 3 % 2 
+if _____:
+  print('&')
+elif _____:
+  print('&&')
+else:
+  print('&&&')
 ```
 
 Scan your work, save it as `LastNameFirstInitial_Conditional_Exercises.pdf`, and upload it to your assignments folder.<br>
