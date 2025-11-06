@@ -127,6 +127,24 @@ else:
   print('&&&')
 ```
 
+11. Fill in the blanks with the code expressions below to obtain a code which outputs `%` to the screen.<br>
+   *Note: Some code boxes will not be used.*<br>
+   **Show all work and code tracing**<br>
+`step = 2`<br>
+`step < 2 `<br>
+`step > 1`<br>
+`step =! 0`<br>
+
+```python
+step = 2 // 1 ** 2
+if _____:
+  print('%')
+elif _____:
+  print('%%')
+else:
+  print('%%%')
+```
+
 Scan your work, save it as `LastNameFirstInitial_Conditional_Exercises.pdf`, and upload it to your assignments folder.<br>
 
 Commit your progress.  Remember to write an appropriate commit message.  For example, *"Completed conditional exercises."*
