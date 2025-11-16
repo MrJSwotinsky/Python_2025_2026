@@ -3,7 +3,7 @@ Due: Wednesday, November 5th 2025
 
 ### Booleans Code Tracing
 
-1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 2, 3.1.1.1  - 3.1.1.4**
+1. Navigate to https://www.edube.org, sign in, access Python Essentials 1, and read **Python Essentials 1 Module 3, 3.1.1.1  - 3.1.1.4**
 
 2. In your notes, code trace each of the code snippets below to determine what the code will output.  If executing the code will result in an error, explain why:
 
