@@ -6,7 +6,7 @@ Thursday, December 4th 2025
 <table>
   <tr>
     <td><b>DO NOW:</b><br><br>
-    In your own words, describe the similarities and differences between `while` loops and `for` loops.<br><br>
+    In your own words, describe the similarities and differences between <code>while</code> loops and <code>for</code> loops.<br><br>
     <b>Be prepared to share your responses.</b></td></td>
   </tr>
 </table>
