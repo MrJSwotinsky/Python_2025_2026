@@ -32,4 +32,4 @@ Thursday, December 4th 2025
 
 **HOMEWORK:** 
 
-[Assignment 3 - Nested For Loops](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_03_Loops/Assignments/Assignment_03_Nested_For_Loops.md)
+[Python, Assignment 3 - Nested For Loops](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Unit_03_Loops/Assignments/Assignment_03_Nested_For_Loops.md)
