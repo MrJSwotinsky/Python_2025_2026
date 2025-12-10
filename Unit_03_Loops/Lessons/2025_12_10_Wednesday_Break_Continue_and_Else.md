@@ -28,8 +28,9 @@ Wednesday, December 10th 2025
 1. Break and Continue
 2. Introducting a New Application of Else
 3. Interactive Live Coding
-4. Check for Understanding
-5. Homework Head Start
+4. Code Tracing
+5. Check for Understanding
+6. Homework Head Start
 
 **HOMEWORK:** 
 
